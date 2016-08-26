@@ -15,8 +15,8 @@ Si n es par y es mayor que 20, imprimir Perfect! (Perfecto)
     2. NO - ¿Es mayor que 5 y menor que 21?
       1. SI - Imprimir Great
       2. NO - ¿Es mayor que 20 y menor que 101?
-             ii.b.2.1. SI - Imprimir Perfect!
-             ii.b.2.2. NO - Imprimir Ingrese un numero entre 0 y 100
+        1. SI - Imprimir Perfect!
+        2 .NO - Imprimir Ingrese un numero entre 0 y 100
 5. FIN
 
 ![Diagrama3](http://i67.tinypic.com/b8okl2.jpg)
